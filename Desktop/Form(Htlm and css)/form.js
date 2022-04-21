@@ -1,3 +1,0 @@
-function num(){
-    alert("Submitted")
-}
